@@ -3,6 +3,7 @@
 # Dogs Information Website 🐾
   
 It is a 
+</div>
 
 ## 💻 Technologies
 - Bootstrap
