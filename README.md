@@ -1,8 +1,8 @@
 <div align="center">
   
 # Dogs Information Website 🐾
-  
-It is a 
+
+This project is a website about dogs, fully responsive and using some different features such as music and video.
 </div>
 
 ## 💻 Technologies
